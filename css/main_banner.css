@@ -1,0 +1,38 @@
+.main_banner{
+  width:100%;
+  height:980px;
+  background-image: url("../img/img-slide.png");
+  background-size:cover;
+  background-position: center;
+}
+
+.main_banner_container{
+  padding-top: 17.7rem;
+  text-align: center;
+  align-items: center;
+}
+
+.main_banner_container div p{
+  font-size:18px;
+}
+.text_img{
+  width:520px;
+  padding-bottom:0.1rem;
+}
+
+p{
+  font-size: 18px;
+  line-height: 0.45rem;
+}
+
+.main_button{
+  margin-top: 5.8rem;
+  font-size:14px;
+  font-weight:700;
+  color:#fff;
+  width:7.5rem;
+  height:2.7rem;
+  background-color: #A384FF;
+  border-radius: 25px;
+  border: none;
+}

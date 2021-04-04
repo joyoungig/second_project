@@ -1,0 +1,40 @@
+footer{
+  margin-top: 100px;
+  width: 100%;
+  height: 100px;
+  background-color: #F7F9FC;
+}
+
+.footer-container{
+  display: flex;
+  align-items: center;
+  margin: 0 11.5rem;
+  height: 100px;
+}
+
+.text-box{
+  padding-left:0;
+  flex-direction: column;
+  display: flex;
+  font-size:12px;
+}
+
+.text-box p{
+  font-size:12px;
+}
+
+.text-box .bar{
+  color:#000000;
+}
+.text-box ul{
+  list-style-type: none;
+  text-align: left;
+  color:#8b8b8c;
+  padding:0;
+  margin:0;
+}
+
+.text-box li:hover{
+  text-decoration: underline;
+  color:#cccccc;
+}
